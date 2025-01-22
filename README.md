@@ -2,7 +2,9 @@
 
 This project involves cleaning, transforming, and visualizing raw airline data to create an interactive Power BI dashboard. The dashboard provides key insights into airline performance and efficiency, focusing on flight cancellations, delays, and on-time performance.
 
-[Dash](https://github.com/shadmanshaikh/airline-analysis/blob/main/1.png)
+![Dash](https://github.com/shadmanshaikh/airline-analysis/blob/main/1.png)
+
+![Dash](https://github.com/shadmanshaikh/airline-analysis/blob/main/2.png)
 
 ## Problem Statement
 
